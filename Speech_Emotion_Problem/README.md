@@ -36,7 +36,7 @@ Achieved 62.47% training accuracy and 63.0% validation accuracy
 
 ```
 chmod 777 setup.sh
-./install.sh
+./setup.sh
 ```
 
 ### Run tests
