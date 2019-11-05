@@ -35,7 +35,7 @@ Achieved 62.47% training accuracy and 63.0% validation accuracy
 ### Setup conda environment
 
 ```
-chmod 777 install.sh
+chmod 777 setup.sh
 ./install.sh
 ```
 
