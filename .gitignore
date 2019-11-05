@@ -1,2 +1,5 @@
 meld/
 .ipynb_checkpoints/
+tmp/
+.idea/
+__pycache__/
