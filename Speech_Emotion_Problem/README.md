@@ -41,5 +41,6 @@ chmod 777 setup.sh
 
 ### Run tests
 ```
+conda activate speech_env
 python test.py {path to test folder}
 ```
